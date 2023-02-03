@@ -1,0 +1,31 @@
+.btn-component {
+  padding: 1rem 2rem;
+  font-size: 1.3rem;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+}
+
+.btn-component--classic {
+  background-color: #e64165;
+}
+
+.btn-component--classic:hover {
+  background-color: #ed5979;
+}
+
+.btn-component--success {
+  background-color: #66bb6a;
+}
+
+.btn-component--success:hover {
+  background-color: #388e3c;
+}
+
+.btn-component--danger {
+  background-color: #c62828;
+}
+
+.btn-component--danger:hover {
+  background-color: #b71c1c;
+}
